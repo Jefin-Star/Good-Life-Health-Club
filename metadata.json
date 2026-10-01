@@ -1,0 +1,6 @@
+{
+  "name": "Good Life Health Club",
+  "description": "Premium, modern health club and fitness center in Kayamkulam. Build your strength, transform your life with world-class equipment and personal training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
